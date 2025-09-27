@@ -9,4 +9,4 @@ The workflow included data merging, exploratory data analysis (EDA), data prepro
 Machine learning models were trained to accurately detect activity patterns, and the application was deployed using Streamlit, providing a user-friendly interface for real-time monitoring and insights.
 
 Thank you,
-Zaid
+Ullas Y R
